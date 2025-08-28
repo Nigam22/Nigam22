@@ -1,35 +1,39 @@
-👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m Your Name
 
-💻 Aspiring App & Full-Stack Developer | Passionate about building real-world projects with modern technologies.
+## 🚀 About Me
+- 🌱 Learning **Flutter & Dart** for cross-platform apps  
+- 🔧 Exploring **Node.js, MongoDB, React** for full-stack web dev  
+- ⚡ Built apps like **Currency Converter** & **Weather App**  
+- 🛒 Currently working on an **E-commerce App**  
 
-🚀 About Me
+---
 
-🌱 Currently learning Flutter & Dart for cross-platform apps.
+## 🎯 Goals
+- 📱 Publish apps on the Play Store  
+- 🌐 Build full-stack apps & websites  
+- 💼 Gain freelancing experience  
+- 🚀 Grow into a skilled **App + Full-Stack Developer**  
 
-🔧 Exploring Node.js, MongoDB, and React for full-stack development.
+---
 
-⚡ Built apps like Currency Converter and Weather App.
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Mobile:** Flutter & Dart  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
 
-🛒 Working on an E-commerce App as my next big project.
+---
 
-🎯 Goals
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?Nigam22&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Nigam22&layout=compact&theme=radical)  
 
-📱 Publish my apps on the Play Store.
+---
 
-🌐 Build full-stack websites with complete functionality.
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nigam-rathore)  
+ 
 
-💼 Gain freelancing experience and deliver value to clients.
+---
 
-🚀 Grow into a skilled App + Full-Stack Developer.
-
-🛠️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript, React
-
-Mobile: Flutter & Dart
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-🤝 Let’s Connect
+✨ *“Learning by building, growing by sharing.”*
