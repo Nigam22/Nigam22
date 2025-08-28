@@ -25,8 +25,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Nigam22&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Nigam22&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nigam22&show_icons=true&theme=radical)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigam22&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nigam22&theme=radical)
+
 
 ---
 
