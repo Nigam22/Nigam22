@@ -1,44 +1,35 @@
+👋 Hi, I’m [Your Name]
 
-# Hi, I'm Nigam! 
+💻 Aspiring App & Full-Stack Developer | Passionate about building real-world projects with modern technologies.
 
-**New Frontend Developer | Passionate about Web Design**
+🚀 About Me
 
-Welcome to my GitHub! I'm a beginner web developer with a keen interest in crafting beautiful and responsive websites using **HTML** and **CSS**. I'm continuously learning and looking forward to contributing to real-world projects.
+🌱 Currently learning Flutter & Dart for cross-platform apps.
 
----
+🔧 Exploring Node.js, MongoDB, and React for full-stack development.
 
-## 🛠️ Technologies I’m Learning
-- HTML5
-- CSS3
-- Git & GitHub
-- JavaScript (Soon!)
+⚡ Built apps like Currency Converter and Weather App.
 
----
+🛒 Working on an E-commerce App as my next big project.
 
-## 📌 Current Goals
-- Build and deploy my first personal portfolio site
-- Contribute to beginner-friendly open-source projects
-- Improve my CSS and explore Flexbox & Grid layouts
+🎯 Goals
 
----
+📱 Publish my apps on the Play Store.
 
-## 📫 Let's Connect!
-- GitHub: [Nigam22](https://github.com/Nigam22)
+🌐 Build full-stack websites with complete functionality.
 
----
+💼 Gain freelancing experience and deliver value to clients.
 
-> “Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.” – Patrick McKenzie
-<!--
-**Nigam22/Nigam22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Grow into a skilled App + Full-Stack Developer.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML, CSS, JavaScript, React
+
+Mobile: Flutter & Dart
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+🤝 Let’s Connect
